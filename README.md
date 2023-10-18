@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on **Frontend Development**
 
-- 🌱 I’m currently learning **React, React Native**
+- 🌱 I’m currently learning **React, .Net Core**
 
 - 🤝 I’m looking for help with **.Net Core**
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, Tailwind, JavaScript, NodeJS, React, Angular**
+- 💬 Ask me about **HTML, CSS, Bootstrap, Tailwind, JavaScript, NodeJS, Java, C#**
 
 - 📫 How to reach me **cnsbelirdi@gmail.com**
 
