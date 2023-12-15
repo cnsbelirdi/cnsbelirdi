@@ -4,13 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cnsbelirdi&label=Profile%20views&color=0e75b6&style=flat" alt="cnsbelirdi" /> </p>
 <p ><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=cnsbelirdi&show_icons=true&locale=en&layout=compact" alt="cnsbelirdi" /></p>
 
-- 🔭 I’m currently working on **Fullstack Development**
+- 🔭 I’m currently working on **NextJS**
 
 - 🌱 I’m currently learning **React, .Net Core**
 
 - 🤝 I’m looking for help with **.Net Core**
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, Tailwind, JavaScript, NodeJS, Java, C#**
+- 💬 Ask me about **NextJS, Tailwind, JavaScript, NodeJS, Java, C#**
 
 - 📫 How to reach me **cnsbelirdi@gmail.com**
 
